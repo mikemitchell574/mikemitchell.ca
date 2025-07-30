@@ -14,4 +14,5 @@ Some aspects that I'm circling:
 - The importance of "task-relevant information" as more important overall than external vs. internal foci. (https://www.tandfonline.com/doi/full/10.1080/00222895.2022.2122920#d1e302)
 - Quiet Eye (QE) training: the idea that looking at the back of the ball for 2-3 seconds before initiating the swing provides better results. (Full-swing and putting?) There is another suggestion in the research that looking at the *target* for 2-3 seconds while putting fits the definition of QE. Will need to explore further.
 - One study suggested that participants performed better in a putting exercise when they perceived the whole as larger. (https://journals.sagepub.com/doi/abs/10.1177/0956797611428810)
-- 
+
+Something that I noticed again at the simulator today (2025-07-30) was the clubface often flying open after impact. Digging around with Claude, it suggested a stronger grip at address. In this case stronger means the hands more turned to the right, with more knuckles of the left hand visible at address. Will look to try it.
